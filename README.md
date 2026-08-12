@@ -9,7 +9,7 @@
 
 - **Languages & Core:** HTML5, CSS3, JavaScript (ES6+)
 - **Styling:** Tailwind CSS
-- **Frameworks & Libraries:** React.js, Next.js
+- **Frameworks & Libraries:** React.js
 
 ---
 

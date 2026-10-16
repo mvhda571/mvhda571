@@ -22,7 +22,7 @@
 
 ```js
 const muslima = {
-  location:   "Tashkent, Uzbekistan 🇺🇿",
+  location:   "Tashkent, Uzbekistan 🌸",
   role:       "Frontend Developer & Student 💻",
   education: [
     "CoddyCamp IT Academy — Full-Stack (React → Node.js)",
